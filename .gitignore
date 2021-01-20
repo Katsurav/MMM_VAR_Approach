@@ -1,0 +1,4 @@
+# ignore all distribution file
+build/
+dist/
+MarketingMix.egg-info/
